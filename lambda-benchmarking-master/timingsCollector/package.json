@@ -6,7 +6,7 @@
     "dist": "mkdir -p target; cp -R src package*.json target; cd target; npm install --production"
   },
   "devDependencies": {
-    "aws-sdk": "^2.271.1"
+    "aws-sdk": "^2.814.0"
   },
   "dependencies": {
     "csv-stringify": "^5.1.2"
